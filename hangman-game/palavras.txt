@@ -1,0 +1,8 @@
+camiseta
+telefone
+computador
+distribuida
+paralela
+concorrencia
+sistemas
+informacao
